@@ -6,7 +6,8 @@
 &emsp;&emsp;[中文包](#zh)   
 &emsp;&emsp;[Markdown增强插件](#store)   
 [创建文件](#创建文件)  
-[编辑文件](#编辑文件)
+[编辑文件](#编辑文件)  
+[用Edge浏览md文件](#用edge浏览markdown文件)
 ## 准备工作
 ### 下载并安装VSCode  
 [VSCode官网](https://code.visualstudio.com/)  
