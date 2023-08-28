@@ -45,4 +45,22 @@
 ## 编辑文件  
 Markdown文件的编写语法简单，常用的代码很少，可以参考以下的官网教程：  
 **[官网教程](https://markdown.com.cn/)**
+## 用Edge浏览Markdown文件
+在Microsoft Edge商店搜索“Markdown Viewer”  
+
+[Microsoft Edge商店](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home)  
+
+![](https://i.postimg.cc/KY9CwBbt/20230828140632.png)  
+
+安装完成后在浏览器页面点击`扩展`(上方小图标)  
+
+![](https://i.postimg.cc/pTWXYDZ8/20230828141100.png)  
+
+找到`Markdown Viewer`并点击右侧的`...`（更多操作），选择`管理扩展`。  
+
+勾选`允许访问文件URL`。  
+![](https://i.postimg.cc/5yf7ttff/20230828141441.png)  
+
+这样就可以在浏览器中输入文件地址浏览Markdown文件啦。
+
 
